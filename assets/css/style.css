@@ -11,6 +11,16 @@ footer {
     height: 60px;
     line-height: 60px;
 	background-color: #FDC230;
+	border-top: 1px solid black;
 	text-align: center;
-	/* font-size: 32px; */
+	font-size: 32px;
+}
+
+.footer .container .fab {
+	color: black;
+	margin: 0 10px;
+}
+
+.footer .container .social-wrapper a {
+	text-decoration: none;
 }
