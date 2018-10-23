@@ -16,5 +16,6 @@ To do list:
 
 Questions for Nate: 
 - Do you have a written biography about yourself and artwork?
-- 
+- Do you have a specific font you want to use for the Bold Backwood text? If not check out google fonts and let me know if you see anything. https://fonts.google.com/
+	- A good thing to do is look up font pairings that work well together, header font and body text font. 2 is usually good.
 

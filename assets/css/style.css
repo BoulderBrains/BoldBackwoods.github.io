@@ -24,3 +24,7 @@ footer {
 .footer .container .social-wrapper a {
 	text-decoration: none;
 }
+
+.footer .container .fab:hover {
+	color: #666;
+}
